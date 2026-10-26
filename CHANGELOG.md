@@ -5,6 +5,11 @@ both are shown in game under "What's new". New entries go under "Unreleased".
 
 ## Unreleased
 
+## 1.13.2 - 2026-10-26
+
+### Other
+- Easylife is now published at **github.com/dmm1/easylife-addon**: download, feature overview and changelog. License: MIT.
+
 ## 1.13.1 - 2026-10-20
 
 ### Easier to use

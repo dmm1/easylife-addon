@@ -5,6 +5,11 @@ beide werden im Spiel unter "Neuigkeiten" angezeigt. Neue Einträge kommen unter
 
 ## Unreleased
 
+## 1.13.3 - 2026-10-30
+
+### Behoben
+- Fehlermeldung beim Überfahren eines Spielers oder Einheitenfensters während eines Ladebildschirms (Notizen: Realm noch nicht bekannt).
+
 ## 1.13.2 - 2026-10-26
 
 ### Sonstiges

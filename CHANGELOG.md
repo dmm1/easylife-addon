@@ -5,6 +5,11 @@ both are shown in game under "What's new". New entries go under "Unreleased".
 
 ## Unreleased
 
+## 1.13.3 - 2026-10-30
+
+### Fixed
+- Error message when hovering a player or a unit frame during a loading screen (Notes: realm not known yet).
+
 ## 1.13.2 - 2026-10-26
 
 ### Other
